@@ -1,0 +1,352 @@
+
+.header{
+    background-color: black;
+}
+.logo img{
+    width: 127px;
+    height: 65px ;
+}
+.Menu ul{
+    color: white;
+    align-items: center;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+}
+.search i{
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    font-size: 25px;
+}
+.content h1{
+    font-family: "Oswald Regular", sans-serif;
+    font-size:124.63px;
+    padding-top: 340px;
+    color: white;
+    
+}
+.content p{
+    font-family: "monsterrat", sans-serif;
+    color: white;
+    font-size: 29.72px;
+    
+
+}
+.background{
+    background-image: url(background.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 796px;   
+}
+.Register-btn a{
+    background-color:#e8631c;
+    color: white;
+    text-decoration:none;
+    padding: 10px 40px;
+    font-size: 29.17px;
+    font-family: "Oswald", sans-serif;
+    border-radius: 3px;
+}
+.dance-tour{
+background-color: #e8631c;
+padding: 100px 0px;
+color: white;
+}
+.dance-tour h2{
+    display: flex;
+    font-family: "Oswarld", sans-serif;
+    justify-content: center;
+    text-align: center;
+    font-size:75px;
+    padding-top: 50px;
+}
+.dance-tour p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 29.72px;
+    font-family:"Montserrat", sans-serif;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+.dance-tour-content{
+    display: flex;
+    margin: 20px;
+    background-color:  #303030;
+}
+.dance-tour-content img{
+     width: 100%;
+}
+.dance-tour-content p{
+    font-size: 20.17px;
+    font-family: "Montserrat","sans-serif";
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 0;
+}
+.dance-tour-content h3{
+    font-size:  36.95px;
+    font-family: "Oswarld", "sans-serif";
+    text-align: center;
+    padding-top: 20px;
+}
+.dance-tour-content h4{
+    font-size:  36.95px;
+    font-family: "Oswarld", "sans-serif";
+    text-align: center;
+    padding-top: 20px;
+}
+.dance-tour-content h5{
+    font-size:  36.95px;
+    font-family: "Oswarld", "sans-serif";
+    text-align: center;
+    padding-top: 20px;
+}
+.row-top-margin{
+    margin-top: 100px;
+}
+.pricing{
+    background-color:#303030;
+    color: white;
+    padding: 100px 0;
+}
+.pricing h2{
+    font-family: "Oswarld", sans-serif;
+    font-size: 75px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px 0;
+}
+.pricing p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 29.72px;
+    padding: 10px;
+    display: flex;
+    justify-content: center; 
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 30px;
+
+}
+.pricing-content{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: #e8631c;
+    padding: 20px 10px;
+    border-radius: 8px;
+    margin: 20px;
+}
+.pricing-content img{
+    padding: 50px 0;
+}
+
+.pricing-content h3{
+    font-family: "Oswarld", sans-serif;
+    font-size: 36.95px;
+    font-weight: bolder;
+}
+.pricing-content p{
+    padding: 10px 0;
+    font-size: 22.17px;
+    font-family: "Montserrat", sans-serif;
+
+} 
+.price a{
+    text-decoration: none;
+    color: white;
+    background-color: #303030;
+    padding: 10px 90px;
+    border-radius: 3px;
+    font-family: "Oswarld", sans-serif;
+    font-size: 25px;
+}
+.amazing-dance img{
+    width: 100%;
+    height: 984px;
+}
+.amazing-dance{
+    background-color: #e8631c;
+}
+.amazing-dance-content{
+    padding: 80px ;
+}
+.amazing-dance-content h2{
+    font-family: "Oswarld", sans-serif;
+    font-size: 75px;
+    font-weight: bold;
+    padding-top: 300px;
+    color: white;
+}
+.amazing-dance-content p{
+    padding: 10px;
+    font-size: 22.17px;
+    font-family: "Montserrat", sans-serif;
+    padding-bottom: 50px;
+    color: white;
+    display: flex;
+    text-align: left;
+
+}
+.read-more a{
+    color: white;
+    background-color: #303030;
+    text-decoration: none;
+    padding: 10px 80px;
+    font-size: 29.17px;
+    font-family: "Oswald", sans-serif;
+    border-radius: 3px;
+
+} 
+.best-img img{
+    width: 100%;
+    height: 984px;
+}
+.best-dance{
+    background-color: #e8631c;
+}
+.best-dance-content{
+    padding: 100px;
+}
+.best-dance-content h2{
+    font-family: "Oswarld", sans-serif;
+    font-size: 75px;
+    font-weight: bold;
+    padding-top: 300px;
+    color: white;
+}
+.best-dance-content p{
+    padding: 10px;
+    font-size: 22.17px;
+    font-family: "Montserrat", sans-serif;
+    padding-bottom: 50px;
+    color: white;
+
+}
+.read-more a{
+    color: white;
+    background-color: #303030;
+    text-decoration: none;
+    padding: 10px 80px;
+    font-size: 29.17px;
+    font-family: "Oswald", sans-serif;
+    border-radius: 3px;
+
+} 
+.Statics{
+    background-color: #303030;
+    color: white;
+    padding: 100px ;
+    display: flex;
+    text-align: center;  
+}
+.Statics h2{
+    font-family: "Oswarld", sans-serif;
+    font-size: 75px;
+    font-weight: bold;
+    justify-content: center;
+    padding: 50px;
+}
+.Statics p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 29.72px;
+}
+.herbert-simon{
+   
+    background-image: url(Image-statics.png);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 974px;   
+}
+.herbert-simon-content h2{
+    font-family: "ostwarld",sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+   justify-content: center;
+    color: white;
+    text-align: center;
+}
+.herbert-simon-content p{
+    font-family: "ostwarld",sans-serif;
+    font-size: 29.27px;
+    text-align: center;
+    color: white;
+}
+.subscribe{
+    text-decoration: transparent;
+    background-position: center;
+    background-color: #e8631c;
+    color: white;
+    padding: 150px;
+    text-align: center;
+}
+.subscribe h2{
+    font-family: "Oswarld", sans-serif; 
+    font-size: 75px;
+    font-weight: bold;
+    padding-bottom: 20px;   
+}
+.subscribe p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 29.72px;
+    padding-bottom: 20px;
+}
+.musicology{
+    background-color: #303030;
+    display: flex;
+    height: 477px;
+    padding: 100px 0 50px 0;
+
+}
+.musicology{
+    display: flex;
+    text-align: start;
+}
+.musicology-content h5{
+    font-family: "Oswarld", sans-serif; 
+    font-size: 33.33px;
+    color: white;
+    padding-left: 50px;
+    padding-bottom: 20px;
+
+}
+.musicology p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 50px;
+
+}
+.about h5{
+    font-family: "Oswarld", sans-serif; 
+    font-size: 33.33px;
+    color: white;
+    padding-bottom: 20px;
+
+}
+.about ul{
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: white;
+    list-style: none;
+    padding-left: 0;
+
+}
+.icon{
+    padding-left: 50px;
+}
+.icon i{
+    background-color: white;
+    border-radius: 100%;
+    padding: 10px;  
+    margin: 5px;
+    align-items: center;
+    font-size: 30px;
+
+}
